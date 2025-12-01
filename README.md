@@ -2,7 +2,7 @@
 
 [![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
 
-**Last Updated:** October 26, 2025
+**Last Updated:** December 2, 2025
 
 ---
 
@@ -107,9 +107,89 @@ CLI that generates batches of curated recommendations for movies, books, podcast
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/You-Might-Like-Agent)
 
+### AI Assistant Ideator
+
+**Created:** March 9, 2025
+
+Streamlit app for ideating AI assistants
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Assistant-Ideator)
+
+### AI EQ Assistant
+
+**Created:** November 30, 2025
+
+Helper utility for finding good personal EQ settings
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-EQ-Assistant)
+
+### AI Room Dimension Estimator
+
+**Created:** October 24, 2025
+
+Upload pics, get ballpark dimensions
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Room-Dimension-Estimator)
+
+### AI Text Rewriting Toolbox
+
+**Created:** March 25, 2025
+
+LLM text reformatting and rewriting toolbox comprised of many system prompts
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox)
+
+### AI Timesheet Creator
+
+**Created:** October 24, 2025
+
+Gemini: screenshot and voice narration based timesheet creator
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Timesheet-Creator)
+
+### Context Cruncher
+
+**Created:** October 26, 2025
+
+App for extracting context data from voice recordings
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Context-Cruncher)
+
+### LLM Detective
+
+**Created:** October 23, 2025
+
+Agent that tries to probe other models' capabilities with conversation
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/LLM-Detective)
+
+### Multimodal AI Use Case Ideator
+
+**Created:** October 24, 2025
+
+Ideates use-cases for multimodal AI (Gemini)
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Multimodal-AI-Use-Case-Ideator)
+
 ---
 
 ## Audio & Speech Tools
+
+### ASR Training Data Chunker
+
+**Created:** April 13, 2025
+
+Breaks up texts by approximate reading duration
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/ASR-Training-Data-Chunker)
+
+### ASR Training Data Collector
+
+**Created:** November 23, 2025
+
+GUI to facilitate gathering training data for ASR/STT apps in organised datasets with audio capture, text capture, and JSONL metadata construction. Supports LLM-generated text and user-provided.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/ASR-Training-Data-Collector)
 
 ### Deepgram STT Linux App
 
@@ -118,6 +198,14 @@ CLI that generates batches of curated recommendations for movies, books, podcast
 Work in progress - AI-assisted STT app for Linux desktop users
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Deepgram-STT-Linux-App)
+
+### Deepgram Voice Keyboard Ubuntu
+
+**Created:** November 11, 2025
+
+WIP to try to create a good STT utility with cloud STT APIs
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Deepgram-Voice-Keyboard-Ubuntu)
 
 ### Gemini Desktop Recorder Notepad
 
@@ -142,6 +230,62 @@ A minimalist desktop notepad using OpenAI Whisper (via API)
 Boot script to ensure that Easy Effects manages the input sound source on boot (Ubuntu)
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Mic-Input-Boot-FX-Script-Ubuntu)
+
+### Modal Whisper Finetune Script
+
+**Created:** November 23, 2025
+
+Validated fine-tuning script for fine-tuning Whisper on Modal GPU with a preformatted audio dataset
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Modal-Whisper-Finetune-Script)
+
+### Voice Analyzer
+
+**Created:** October 24, 2025
+
+Analyses voice data
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Voice-Analyzer)
+
+### Voice Note Recorder Ubuntu
+
+**Created:** November 30, 2025
+
+GUI for recording voice notes
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Voice-Note-Recorder-Ubuntu)
+
+### Voice Prompt Cleanup Script
+
+**Created:** November 30, 2025
+
+Cleanup audio processing script
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Voice-Prompt-Cleanup-Script)
+
+### Voice Training Data Creator
+
+**Created:** November 3, 2025
+
+GUI to facilitate capturing voice data for TTS / voice clone training with LLM synthetic text generation and saving logic (Ubuntu Linux)
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Voice-Training-Data-Creator)
+
+### Voice Training Script Generator
+
+**Created:** November 28, 2025
+
+Helper utils for generating training data for voice cloning with LLMs
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Voice-Training-Script-Generator)
+
+### Wayland Voice Typer
+
+**Created:** November 26, 2025
+
+Simple GUI around whisper.cpp for voice-to-text on Linux
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Wayland-Voice-Typer)
 
 ### Thought Pad
 
@@ -255,6 +399,22 @@ Helps to discard old repositories from a local filesystem (for Linux)
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Github-Repo-Pruner)
 
+### Quick Repo Creator
+
+**Created:** August 5, 2025
+
+A streamlined CLI tool for fast repository creation workflow with GitHub integration and IDE support
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/quick-repo-creator)
+
+### Remote Github Repo Pruner
+
+**Created:** April 16, 2025
+
+CLI for pruning repos on the remote (ie, Github)
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Remote-Github-Repo-Pruner)
+
 ### Linux Github Repo Launcher
 
 **Created:** March 3, 2025
@@ -361,6 +521,14 @@ News monitoring dashboards focused on Israeli & ME News
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Grafana-News-Monitoring-Dashboards)
 
+### Hebrew Dash
+
+**Created:** September 15, 2025
+
+Daily productivity dashboard/wall panel with Hebrew date and zmanim
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-Dash)
+
 ### Israel To ROW Salary Converter V2
 
 **Created:** February 5, 2025
@@ -397,6 +565,30 @@ Updated "vibe-coded" GUI for reading/writing to the ACR1252 USB NFC reader/write
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/ACR-1252-GUI-1025)
 
+### adb Keep Awake
+
+**Created:** November 28, 2025
+
+Scripts to prevent Android phones from sleeping while connected via USB (keeps ADB working)
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/adb-keep-awake)
+
+### Better Safe
+
+**Created:** December 2, 2025
+
+CLI for taking on-demand Snapper snapshots (BTRFS) with automatic privilege escalation and comparative snapshot info
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Better-Safe)
+
+### Day Planner Dashboard
+
+**Created:** September 12, 2025
+
+Day planner dashboard config with email, calendar, news, IP cam, weather
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Day-Planner-Dashboard)
+
 ### Dual WhatsApp Linux Desktop
 
 **Created:** February 3, 2025
@@ -413,6 +605,28 @@ GUI for creating backups of Homebox (with Postgres)
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Homebox-Backup-GUI)
 
+### Homebox Image Compressor
+
+**Created:** August 10, 2025
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Homebox-Image-Compressor)
+
+### Local UTC KDE Widget
+
+**Created:** September 22, 2025
+
+(WIP) - KDE Plasma widget for displaying local and UTC time in 24 hour format
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Local-UTC-KDE-Widget)
+
+### Logitech C925E Boot Configurator
+
+**Created:** October 23, 2025
+
+v4l2 configuration script for Logitech C925e webcam - sets 1080p @ 24fps MJPEG on boot
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Logitech-C925E-Boot-Configurator)
+
 ### NFS SMB Share Lister
 
 **Created:** July 20, 2025
@@ -421,9 +635,41 @@ Script for listing NFS and SMB shares on a local NAS
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/NFS-SMB-Share-Lister)
 
+### Snap It
+
+**Created:** February 17, 2025
+
+Simple GUI for taking on-demand Snapper snapshots
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Snap-It)
+
+### Ubuntu Pipx Toolbox
+
+**Created:** October 17, 2025
+
+Bash scripts for installing a few useful tool groups on Ubuntu with pipx
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Ubuntu-Pipx-Toolbox)
+
 ---
 
 ## MCP Tools
+
+### Homebox MCP Server
+
+**Created:** November 8, 2025
+
+MCP for Homebox with support for LAN and WAN URLs
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Homebox-MCP-Server)
+
+### Sefaria MCP Testing
+
+**Created:** November 30, 2025
+
+Some tests with Sefaria (and other Jewish-relevant MCPs!)
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Sefaria-MCP-Testing)
 
 ### Smithery Batch Installer
 
@@ -472,6 +718,14 @@ Streamlit generator to aid with the creation of structured prompts
 A system prompt generation UI that combines model and user characteristics to generate more targeted (but still general) system prompts for LLMs
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/System-Prompt-Factory)
+
+### Text Transformation Prompt Combiner
+
+**Created:** April 7, 2025
+
+Basic implementation of a prompt concatenation utility for text transformation system prompts for converting transcribed text
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Text-Transformation-Prompt-Combiner)
 
 ---
 
