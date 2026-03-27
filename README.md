@@ -2,7 +2,7 @@
 
 [![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
 
-**Last Updated:** December 2, 2025
+**Last Updated:** March 27, 2026
 
 ---
 
@@ -171,6 +171,22 @@ Ideates use-cases for multimodal AI (Gemini)
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Multimodal-AI-Use-Case-Ideator)
 
+### Im Not Okay
+
+**Created:** March 26, 2026
+
+POC/Demo/Concept - using AI to frontload therapy
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Im-Not-Okay)
+
+### Geopol Forecaster POC
+
+**Created:** March 24, 2026
+
+Experimental prediction analysis for real world events (Iran Israel)
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Geopol-Forecaster-POC)
+
 ---
 
 ## Audio & Speech Tools
@@ -335,6 +351,22 @@ A Linux desktop utility for converting speech to text using the OpenAI Whisper A
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Whisper-Notepad-Simple)
 
+### AI Typer V2
+
+**Created:** March 25, 2026
+
+Voice dictation with multimodal AI cleanup — speak naturally, get polished text
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Typer-V2)
+
+### Readiness Voice Agent
+
+**Created:** March 27, 2026
+
+Voice agent implementation for readiness checklists
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Readiness-Voice-Agent)
+
 ---
 
 ## Browser Automation
@@ -390,6 +422,14 @@ Utility that creates a human-readable manifest of the relationships contained in
 ---
 
 ## Developer Utilities
+
+### Github LFS Cleanup
+
+**Created:** March 26, 2026
+
+Investigation and cleanup of GitHub LFS storage usage
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/github-lfs-cleanup)
 
 ### Github Repo Pruner
 
@@ -553,6 +593,46 @@ Android app for finding nearby public shelters in Jerusalem (populated in June 2
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Shelter-Finder-Jerusalem)
 
+### Red Alert Telegram Bot
+
+**Created:** March 24, 2026
+
+On-demand situational intelligence Telegram bot for Pikud HaOref alerts
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Red-Alert-Telegram-Bot)
+
+### Red Alert Geodash
+
+**Created:** March 24, 2026
+
+Real-time dashboard for Israel's Pikud HaOref rocket/situation alerts with multi-map Leaflet views and polygon overlays
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Red-Alert-Geodash)
+
+### Red Alert Geodash Desktop
+
+**Created:** March 24, 2026
+
+Electron desktop wrapper for Red Alert Geodash dashboard
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/red-alert-geodash-desktop)
+
+### Oref Alert Proxy
+
+**Created:** March 24, 2026
+
+Local relay proxy for Israel Homefront Command (Pikud HaOref) alert data
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Oref-Alert-Proxy)
+
+### Israel Emergency Readiness PWA
+
+**Created:** March 21, 2026
+
+Interactive PWA for Israel wartime emergency preparedness, based on Home Front Command guidance
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israel-Emergency-Readiness-PWA)
+
 ---
 
 ## Linux Desktop Apps
@@ -686,6 +766,30 @@ Speeds up installing Smithery MCP servers onto multiple clients
 Group of Smithery MCPs for Claude Code
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Smithery-Claude-Code-MCP-Jumpstarter)
+
+### Meta MCP Manager
+
+**Created:** March 26, 2026
+
+Meta MCP manager tool
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Meta-MCP-Manager)
+
+### Fal Nano MCP
+
+**Created:** March 22, 2026
+
+Local MCP for using Nano Banana via Fal AI
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Fal-Nano-MCP)
+
+### Modal MCP Server
+
+**Created:** March 24, 2026
+
+MCP server for Modal
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/modal-mcp-server)
 
 ---
 
