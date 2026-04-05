@@ -127,6 +127,12 @@ Scripts for creating taxonomies, mostly Python
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Taxonomy-Generators)
 
+### Tech Diagram Maker
+
+Desktop GUI for creating and editing tech diagrams using Fal AI's Nano Banana 2 model — also includes CLI and MCP server
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Tech-Diagram-Maker)
+
 ### You Might Like Agent
 
 CLI that generates batches of curated recommendations for movies, books, podcasts, etc
