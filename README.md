@@ -4,7 +4,7 @@
 
 An index of apps, tools, and utilities I've built or am working on.
 
-**Last Updated:** March 27, 2026
+**Last Updated:** April 25, 2026
 
 ---
 
@@ -254,6 +254,12 @@ A fork of Deepgram's Linux starter — CLI to GUI with hotkey support, API key e
 Voice-powered typing for Wayland/Hyprland desktops
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/hyprvoice)
+
+### Voxcast
+
+Android hold-to-talk voice-to-text reformatter — single-pass transcription + reformatting via OpenRouter / Gemini 3.1 Flash Lite, with eight serious presets (business email, AI prompt, dev prompt, basic cleanup, to-do list, note to self, casual Hebrew, Hebrew email)
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Voxcast)
 
 ### Wayland Voice Typer
 
